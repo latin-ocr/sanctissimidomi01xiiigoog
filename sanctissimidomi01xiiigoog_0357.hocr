@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sanctissimidomi01xiiigoog_0357.png"; bbox 0 0 3216 4880; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 628 2237 1243 2300">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 628 2237 1243 2300">
+     <span class='ocr_line' id='line_1_1' title="bbox 628 2237 1243 2300; baseline 0.008 -17"><span class='ocrx_word' id='word_1_1' title='bbox 628 2237 704 2296; x_wconf 85' lang='lat' dir='ltr'>Typis</span> <span class='ocrx_word' id='word_1_2' title='bbox 720 2238 847 2286; x_wconf 78' lang='lat' dir='ltr'>Societatis</span> <span class='ocrx_word' id='word_1_3' title='bbox 861 2241 939 2288; x_wconf 75' lang='lat' dir='ltr'><strong>sancti</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 954 2241 1090 2300; x_wconf 77' lang='lat' dir='ltr'><strong>Augustini.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1104 2265 1134 2275; x_wconf 89' lang='lat'><em>-</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1150 2241 1243 2300; x_wconf 77' lang='lat' dir='ltr'><strong>Brugis.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1612 4880">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1612 4880">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1612 4880; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1612 4880; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
